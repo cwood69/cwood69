@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @cwood69
-- 👀 I’m interested in ...recycling
-- 🌱 I’m currently learning ...lots of stuff
-- 💞️ I’m looking to collaborate on ...whatever works
+- 👀 I’m interested in ...recycling and programs
+- 🌱 I’m currently learning ...AI
+- 💞️ I’m looking to collaborate on ...interesting things
 - 📫 How to reach me ...christinewood6969@gmail.com
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...i have 2 dogs
+- ⚡ Fun fact: ...i had 2 dogs, i now only have 1 :(
 
 <!---
 cwood69/cwood69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
